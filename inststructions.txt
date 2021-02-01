@@ -1,0 +1,7 @@
+instruction to test the code:
+
+python change_face_in_video_v2.py complete_path_for_input_image(.png) complete_path_for_input_video(.mp4) complete_path_save_output_video(.mp4)
+
+example:
+
+python "/content/drive/MyDrive/Colab Notebooks/code_challenge/curio_face_swap_2video_using_image/change_face_in_video_v2.py" "/content/drive/MyDrive/Colab Notebooks/code_challenge/curio_face_swap_2video_using_image/dataset/images/mohit.png" "/content/drive/MyDrive/Colab Notebooks/code_challenge/curio_face_swap_2video_using_image/dataset/videos/Darshan Rawal- Feel the agony.mp4" "/content/drive/MyDrive/Colab Notebooks/code_challenge/curio_face_swap_2video_using_image/output_face_swap/fs-3.3-mohit-Darshan_Rawal-Feel_the_agony.mp4"
